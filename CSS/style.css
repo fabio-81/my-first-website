@@ -1,6 +1,5 @@
 body{
 
-    /*background-color:grey;*/
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,53,121,0.6502976190476191) 35%, rgba(0,212,255,1) 100%);
     color: white;
@@ -10,16 +9,13 @@ body{
     line-height: 1.4;
     font-style: normal;
     
-    
-    
+      
     
 }
 .primary-heading{
 background-color:#0000ff;
 line-height: 2.4;
 font-style: italic;
-width: 5em;
-
 
 
 }
@@ -29,8 +25,8 @@ background-color: rgb(255, 255,0);
 text-decoration:underline;
 font-family:'Times New Roman', Times, serif;
 line-height: 1;
-}
 
+}
 
 .navigation-menu{
     text-decoration: underline;
@@ -45,6 +41,10 @@ line-height: 1;
 }
 a:visited{
     color: orange;
+}
+.text-align{
+
+    text-align: center;
 }
 
 
